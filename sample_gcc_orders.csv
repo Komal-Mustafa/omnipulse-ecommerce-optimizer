@@ -1,0 +1,31 @@
+address_text,customer_history_refusals,payment_method,rto_status
+"Riyadh, Olaya District, King Fahd Road, Building 45, Floor 3",0,Card,0
+"Riyadh, near the big supermarket",2,COD,1
+"Jeddah, Al-Hamra, Palestine Street, Apt 104",0,Card,0
+"Jeddah, behind the petrol pump",1,COD,1
+"Dubai Marina, Princess Tower, Floor 45",0,Card,0
+"Dubai, near metro station",3,COD,1
+"Abu Dhabi, Khalifa City, Street 12, Villa 5",0,Card,0
+"Abu Dhabi, close to mosque",2,COD,1
+"Doha, West Bay, Al-Tabari St, Building 9",0,Card,0
+"Doha, near the mall parking lot",1,COD,1
+"Manama, Juffair, Road 4022, Block 324",0,Card,0
+"Manama, near supermarket shop",2,COD,1
+"Muscat, Al-Khuwair, St 2, Building 88",0,Card,0
+"Muscat, behind the main clinic",1,COD,1
+"Sharjah, Al-Majaz, Corniche St, Apt 902",0,Card,0
+"Sharjah, near park gate",2,COD,1
+"Al-Khobar, Belt Road, St 5, Villa 12",0,Card,0
+"Al-Khobar, next to school",1,COD,1
+"Riyadh, Al-Mursalat, Abu Bakr St, Building 112",0,Card,0
+"Riyadh, near coffee shop",3,COD,1
+"Jeddah, Al-Rawdah, Prince Sultan St",0,Card,0
+"Jeddah, near pharmacy shop",2,COD,1
+"Dubai, Downtown, Burj Khalifa Blvd, Apt 3402",0,Card,0
+"Dubai, close to hypermarket",1,COD,1
+"Dammam, Al-Shati, St 18, House 90",0,Card,0
+"Dammam, near bridge",2,COD,1
+"Riyadh, Al-Naseem, St 4",1,COD,1
+"Jeddah, Al-Safa, St 10",0,COD,0
+"Dubai, Al-Barsha, St 23, Villa 10",0,COD,0
+"Muscat, Ruwi, High St, Apt 12",0,Card,0
